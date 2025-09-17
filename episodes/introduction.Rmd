@@ -40,8 +40,20 @@ library(Seurat)
 
 # RNA-seq pathway
 
-
-
+library(clusterProfiler)
+library(enrichplot)
+library(RegEnrich)
+library(STRINGdb)
+library(goseq)
+library(fgsea)
+library(ReactomePA)
+library(DOSE)
+library(pathview)
+library(KEGGgraph)
+library(gage)
+library(gageData)
+library(WGCNA)
+library(dplyr)
 
 ```
 
