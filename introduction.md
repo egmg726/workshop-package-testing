@@ -17,6 +17,58 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+## Packages
+
+
+
+``` r
+# Proteomics
+
+
+library(limpa)
+```
+
+``` output
+Loading required package: limma
+```
+
+``` r
+# scRNA-seq
+
+library(Seurat)
+```
+
+``` output
+Loading required package: SeuratObject
+```
+
+``` output
+Loading required package: sp
+```
+
+``` output
+
+Attaching package: 'SeuratObject'
+```
+
+``` output
+The following objects are masked from 'package:base':
+
+    intersect, t
+```
+
+``` r
+#library(SeuratData)
+
+
+# RNA-seq pathway
+```
+
+
+
+
+
 ## Introduction
 
 This is a lesson created via The Carpentries Workbench. It is written in
