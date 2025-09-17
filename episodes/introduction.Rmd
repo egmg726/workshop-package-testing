@@ -17,6 +17,38 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+## Packages
+
+
+```{r}
+
+
+# Proteomics
+
+
+library(limpa)
+
+
+
+
+# scRNA-seq
+
+library(Seurat)
+#library(SeuratData)
+
+
+# RNA-seq pathway
+
+
+
+
+```
+
+
+
+
+
 ## Introduction
 
 This is a lesson created via The Carpentries Workbench. It is written in
