@@ -76,10 +76,10 @@ clusterProfiler v4.16.0 Learn more at https://yulab-smu.top/contribution-knowled
 
 Please cite:
 
-Guangchuang Yu, Li-Gen Wang, Yanyan Han and Qing-Yu He.
-clusterProfiler: an R package for comparing biological themes among
-gene clusters. OMICS: A Journal of Integrative Biology. 2012,
-16(5):284-287
+T Wu, E Hu, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan,
+X Fu, S Liu, X Bo, and G Yu. clusterProfiler 4.0: A universal
+enrichment tool for interpreting omics data. The Innovation. 2021,
+2(3):100141
 ```
 
 ``` output
@@ -102,9 +102,9 @@ enrichplot v1.28.4 Learn more at https://yulab-smu.top/contribution-knowledge-mi
 
 Please cite:
 
-Guangchuang Yu. Using meshes for MeSH term enrichment and semantic
-analyses. Bioinformatics. 2018, 34(21):3766-3767,
-doi:10.1093/bioinformatics/bty410
+Guangchuang Yu, Qing-Yu He. ReactomePA: an R/Bioconductor package for
+reactome pathway analysis and visualization. Molecular BioSystems.
+2016, 12(2):477-479
 ```
 
 ``` r
