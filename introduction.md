@@ -76,10 +76,8 @@ clusterProfiler v4.16.0 Learn more at https://yulab-smu.top/contribution-knowled
 
 Please cite:
 
-T Wu, E Hu, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan,
-X Fu, S Liu, X Bo, and G Yu. clusterProfiler 4.0: A universal
-enrichment tool for interpreting omics data. The Innovation. 2021,
-2(3):100141
+G Yu. Thirteen years of clusterProfiler. The Innovation. 2024,
+5(6):100722
 ```
 
 ``` output
@@ -102,9 +100,9 @@ enrichplot v1.28.4 Learn more at https://yulab-smu.top/contribution-knowledge-mi
 
 Please cite:
 
-Guangchuang Yu, Qing-Yu He. ReactomePA: an R/Bioconductor package for
-reactome pathway analysis and visualization. Molecular BioSystems.
-2016, 12(2):477-479
+Guangchuang Yu. Gene Ontology Semantic Similarity Analysis Using
+GOSemSim. In: Kidder B. (eds) Stem Cell Transcriptional Networks.
+Methods in Molecular Biology. 2020, 2117:207-215. Humana, New York, NY.
 ```
 
 ``` r
