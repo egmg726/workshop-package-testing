@@ -76,8 +76,9 @@ clusterProfiler v4.16.0 Learn more at https://yulab-smu.top/contribution-knowled
 
 Please cite:
 
-G Yu. Thirteen years of clusterProfiler. The Innovation. 2024,
-5(6):100722
+S Xu, E Hu, Y Cai, Z Xie, X Luo, L Zhan, W Tang, Q Wang, B Liu, R Wang,
+W Xie, T Wu, L Xie, G Yu. Using clusterProfiler to characterize
+multiomics data. Nature Protocols. 2024, 19(11):3292-3320
 ```
 
 ``` output
@@ -100,9 +101,9 @@ enrichplot v1.28.4 Learn more at https://yulab-smu.top/contribution-knowledge-mi
 
 Please cite:
 
-Guangchuang Yu. Gene Ontology Semantic Similarity Analysis Using
-GOSemSim. In: Kidder B. (eds) Stem Cell Transcriptional Networks.
-Methods in Molecular Biology. 2020, 2117:207-215. Humana, New York, NY.
+Guangchuang Yu, Li-Gen Wang, and Qing-Yu He. ChIPseeker: an
+R/Bioconductor package for ChIP peak annotation, comparison and
+visualization. Bioinformatics. 2015, 31(14):2382-2383
 ```
 
 ``` r
