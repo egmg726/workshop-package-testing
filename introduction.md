@@ -102,9 +102,9 @@ enrichplot v1.28.4 Learn more at https://yulab-smu.top/contribution-knowledge-mi
 
 Please cite:
 
-S Xu, E Hu, Y Cai, Z Xie, X Luo, L Zhan, W Tang, Q Wang, B Liu, R Wang,
-W Xie, T Wu, L Xie, G Yu. Using clusterProfiler to characterize
-multiomics data. Nature Protocols. 2024, 19(11):3292-3320
+Guangchuang Yu, Li-Gen Wang, Guang-Rong Yan, Qing-Yu He. DOSE: an
+R/Bioconductor package for Disease Ontology Semantic and Enrichment
+analysis. Bioinformatics. 2015, 31(4):608-609
 ```
 
 ``` r
