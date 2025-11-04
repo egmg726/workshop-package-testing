@@ -72,14 +72,13 @@ library(clusterProfiler)
 ```
 
 ``` output
-clusterProfiler v4.16.0 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
+clusterProfiler v4.18.1 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
 
 Please cite:
 
-Guangchuang Yu, Li-Gen Wang, Yanyan Han and Qing-Yu He.
-clusterProfiler: an R package for comparing biological themes among
-gene clusters. OMICS: A Journal of Integrative Biology. 2012,
-16(5):284-287
+S Xu, E Hu, Y Cai, Z Xie, X Luo, L Zhan, W Tang, Q Wang, B Liu, R Wang,
+W Xie, T Wu, L Xie, G Yu. Using clusterProfiler to characterize
+multiomics data. Nature Protocols. 2024, 19(11):3292-3320
 ```
 
 ``` output
@@ -98,13 +97,13 @@ library(enrichplot)
 ```
 
 ``` output
-enrichplot v1.28.4 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
+enrichplot v1.30.0 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
 
 Please cite:
 
-Guangchuang Yu, Li-Gen Wang, Guang-Rong Yan, Qing-Yu He. DOSE: an
-R/Bioconductor package for Disease Ontology Semantic and Enrichment
-analysis. Bioinformatics. 2015, 31(4):608-609
+Guangchuang Yu, Li-Gen Wang, and Qing-Yu He. ChIPseeker: an
+R/Bioconductor package for ChIP peak annotation, comparison and
+visualization. Bioinformatics. 2015, 31(14):2382-2383
 ```
 
 ``` r
@@ -317,7 +316,7 @@ The following object is masked from 'package:sp':
 ```
 
 ``` output
-Loading required package: GenomeInfoDb
+Loading required package: Seqinfo
 ```
 
 ``` output
@@ -401,7 +400,7 @@ library(ReactomePA)
 ```
 
 ``` output
-ReactomePA v1.52.0 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
+ReactomePA v1.54.0 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
 
 Please cite:
 
@@ -415,7 +414,7 @@ library(DOSE)
 ```
 
 ``` output
-DOSE v4.2.0 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
+DOSE v4.4.0 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
 
 Please cite:
 
