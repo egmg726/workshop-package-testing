@@ -76,9 +76,8 @@ clusterProfiler v4.18.1 Learn more at https://yulab-smu.top/contribution-knowled
 
 Please cite:
 
-S Xu, E Hu, Y Cai, Z Xie, X Luo, L Zhan, W Tang, Q Wang, B Liu, R Wang,
-W Xie, T Wu, L Xie, G Yu. Using clusterProfiler to characterize
-multiomics data. Nature Protocols. 2024, 19(11):3292-3320
+G Yu. Thirteen years of clusterProfiler. The Innovation. 2024,
+5(6):100722
 ```
 
 ``` output
@@ -97,13 +96,14 @@ library(enrichplot)
 ```
 
 ``` output
-enrichplot v1.30.0 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
+enrichplot v1.30.1 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
 
 Please cite:
 
-Guangchuang Yu, Li-Gen Wang, and Qing-Yu He. ChIPseeker: an
-R/Bioconductor package for ChIP peak annotation, comparison and
-visualization. Bioinformatics. 2015, 31(14):2382-2383
+T Wu, E Hu, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan,
+X Fu, S Liu, X Bo, and G Yu. clusterProfiler 4.0: A universal
+enrichment tool for interpreting omics data. The Innovation. 2021,
+2(3):100141
 ```
 
 ``` r
